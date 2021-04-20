@@ -1,5 +1,15 @@
 header{
-  margin-top: 50px;
+  height: 50px;
+	background-color: #26d0c9;
+	color: #fff;
+	padding: 3px 10px;
+}
+
+.top-content{
+	height: 300px;
+	background-image: url(img/topimg.png);
+	background-size: cover;
+	opacity: 0.8;
 }
 
 .cp_qa *, .cp_qa *:after, .cp_qa *:before {
@@ -127,5 +137,12 @@ header{
 }
 
 .btn-wrapper {
-  margin: 20px 0;
+  margin: 10px 5px;
 }
+
+.cp_qa{
+	margin-top: 20px;
+}
+
+
+
